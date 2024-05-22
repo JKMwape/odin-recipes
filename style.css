@@ -1,0 +1,18 @@
+body{
+    background-color: #fbe9d0;
+    color: #244855;
+    text-align: center;
+    font-size: 20px;
+}
+
+.description{
+    background-color:#244855;
+    color: #90aead;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4{
+    color: #244855;
+}
